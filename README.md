@@ -31,7 +31,7 @@ Necessário digitar y quando necessario.
 ## Clonando repositorio
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/euyato/angel-base.git
+cd /sdcard && git clone 
 ```
 Espere carregar tudo
 
@@ -49,4 +49,4 @@ npm start
 sh start.sh
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=֎+𝐍𝐄𝐌+𝐁𝐀𝐒𝐄+𝐀𝐍𝐆𝐄𝐋+֎"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=֎+𝐍𝐄𝐌+KIMETSU+BOT+֎"> 
