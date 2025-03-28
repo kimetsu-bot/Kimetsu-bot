@@ -1,0 +1,81 @@
+[
+  {
+    "name": "[ MOMO - CHAT VIP ]",
+    "groupId": "120363364412042873@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": true,
+    "Odelete": true,
+    "antispam": true,
+    "antinotas": false,
+    "anticatalogo": true,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!",
+      "/",
+      "#",
+      "."
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": 700
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "Olá #numerodele#, Bem vindo (a) ao grupo. leia as regras e as siga para não ter nenhum tipo de complicações e divirta-se!",
+        "legendasaiu": "#numerodele# saiu do grupo 😟"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]
