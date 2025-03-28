@@ -31,14 +31,14 @@ Necessário digitar y quando necessario.
 ## Clonando repositorio
 **3° Comando**
 ```
-cd /sdcard && git clone 
+cd /sdcard && git clone https://github.com/kimetsu-bot/Kimetsu-bot.git
 ```
 Espere carregar tudo
 
 ## Acessando e iniciando a base
 **4° Comando**
 ```
-cd angel-base && npm start
+cd kimetsu && npm start
 ```
 
 ## 🖲️ STARTS DA BASE 🖲
