@@ -38,10 +38,10 @@ Espere carregar tudo
 ## Acessando e iniciando a base
 **4° Comando**
 ```
-cd kimetsu && npm start
+cd kimetsu-bot && npm start
 ```
 
-## 🖲️ STARTS DA BASE 🖲
+## 🖲️ STARTS DO BOT 🖲
 ```
 npm start
 ```
