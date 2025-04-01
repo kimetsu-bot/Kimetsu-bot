@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://files.catbox.moe/7dynj3.jpg" alt="ANGEL BASE" width="720">
+<img src= "https://files.catbox.moe/7dynj3.jpg" alt="KIMETSU BOT" width="720">
 </p>
 
 <p align="center">
