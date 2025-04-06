@@ -42,14 +42,16 @@ Para definir uma legenda de quando um integrante sair ou entrar em seu grupo, ve
 }
 
 exports.infoOwner = (prefix, NickDono, numerodn, NomeDoBot, sender) => {
-return `*Informações sobre meu dono:*
-
-• Número: wa.me/${numerodn}
-• Proprietário: ${NickDono}`
+return `
+╭━━━[ *👑 Dono do ${NomeDoBot}* ]━━━╮
+┃ ✦ Número: wa.me/${numerodn}
+┃ ✦ Nome: ${NickDono}
+┃ ✦ prefixo: ${prefix}
+╰━━━━━━━━━━━━━━━━━━╯`
 }
 
 exports.tutorialBasic = (prefix) => {
-return `👤 Olá, eu sou a *TWO-BOT*!
+return `👤 Olá, eu sou a *kimetsu*!
 • Aqui está um breve tutorial de algumas das minhas funções:
 –
 • Para divertir seu grupo, use: *${prefix}brincadeiras* e saiba todos meus jogos.
