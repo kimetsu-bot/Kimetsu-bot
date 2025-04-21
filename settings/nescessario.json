@@ -1,11 +1,18 @@
 {
-  "antipv": false,
+  "botoes": false,
+  "prefixativo": true,
+  "menu_audio": true,
+  "verificado": true,
+  "antipv": true,
   "antipv2": false,
   "antipv3": false,
-  "menu_audio": false,
-  "verificado": false,
   "anticall": true,
-  "visualizarmsg": false,
+  "visualizarmsg": true,
+  "botoff": false,
+  "Odelete": false,
+  "KIMETSU_KEY": "SUA APIKEY AQUI",
+  "API_KEY_BRONXYS": "SUA APIKEY AQUI",
+  "KIME_VIP": "kimetsu",
   "listanegraG": [],
   "cmd_premium": [
     "destrava",
@@ -29,13 +36,11 @@
   "msgantipv1": "Sinto muito *#nome#*, mas meu dono não permitiu eu responder ninguém, então terei que bloquear você... ;)",
   "msgantipv2": "Não pode mandar mensagem para o bot, ele está programado para não responder, tente falar com meu dono... ;)",
   "TEMPO_DE_CMD": "Aguarde #tempo# segundos até executar outro comando, tempo a concluir:\n• #tempocmd#",
-  "API_KEY_INVERTEXTO": "6117|oJqDz5g3Uf91zuiAo8FiZzXpHlLGrVEV",
   "numero_dono1": ".",
   "numero_dono2": ".",
   "numero_dono3": ".",
   "numero_dono4": ".",
   "numero_dono5": ".",
   "numero_dono6": ".",
-  "botoff": true,
-  "Odelete": false
+  "modo_aluguel": false
 }
